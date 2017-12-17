@@ -3,7 +3,7 @@
 ####**Main goal of the project**
 The main goal of this project is to predict in the most accurate way the variable "classe" of the testing dataset, through a fitting model based on the training dataset.  
 
-####**Reading and clearing the training dataset**
+####**Reading, clearing and exploring the training dataset**
 Reading the datasets:  
 ```{r, echo=FALSE}
 setwd("~/Dropbox/Coursera/Corsi/8. Practical Machine learning/GIT_Coursera_MachineLearning_PGA")
